@@ -8,3 +8,4 @@ This repository is a collection of puzzle with solution link/solution
 - 100 people in a circle with gun puzzle - [Solution](https://www.geeksforgeeks.org/puzzle-100-people-in-a-circle-with-gun-puzzle/)
 
 ## _Hard level_
+- 2 eggs and 100 floor - [Solution](https://www.geeksforgeeks.org/puzzle-set-35-2-eggs-and-100-floors/)
