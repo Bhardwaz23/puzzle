@@ -12,6 +12,7 @@ This repository is a collection of puzzle with solution link/solution
 - Maximum run in cricket - [Solution](https://www.geeksforgeeks.org/puzzle-37-maximum-run-in-cricket/?ref=lbp)
 - Find missing Row in Excel -[Solution](https://www.geeksforgeeks.org/puzzle-40-find-missing-row-in-excel/?ref=lbp)
 - Rs 500 Note Puzzle -[Solution](https://www.geeksforgeeks.org/puzzle-33-rs-500-note-puzzle/?ref=lbp)
+- 3 Ants and Triangle - [Solution](https://www.geeksforgeeks.org/puzzle-21-3-ants-and-triangle/)
 ## _Medium level_
 - Find ages of daughters-[Solution](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/)
 - Monty Hall problem - [Solution](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)
@@ -21,8 +22,15 @@ This repository is a collection of puzzle with solution link/solution
 - 100 coins puzzle - [Solution](https://www.geeksforgeeks.org/puzzle-39-hundred-coin-puzzle/?ref=lbp) -[Video Explanation](https://www.youtube.com/watch?v=YRhbTJaFsE8)
 - Prisoner and Policeman Puzzle - [Solution](https://www.geeksforgeeks.org/puzzle-34-prisoner-and-policeman-puzzle/?ref=lbp) - [Video Solution](https://www.youtube.com/watch?v=gXGNM3gXwio)
 - 1000 Coins and 10 Bags - [Solution](https://www.geeksforgeeks.org/puzzle-11-1000-coins-and-10-bags/)
+- Maximize probability of White Ball - [Solution](https://www.geeksforgeeks.org/puzzle-12-maximize-probability-of-white-ball/)
+- 100 Prisoners with Red/Black Hats - [Solution](https://www.geeksforgeeks.org/puzzle-13-100-prisoners-with-redblack-hats/)
+- Chessboard and dominos - [Solution](https://www.geeksforgeeks.org/puzzle-25chessboard-and-dominos/)
 
 ## _Hard level_
 - Finding the Injection for Anesthesia - [Solution](https://www.geeksforgeeks.org/puzzle-5-finding-the-injection-for-anesthesia/)
 - Find the fastest 3 horses - [Solution](https://www.geeksforgeeks.org/puzzle-9-find-the-fastest-3-horses/)
 - 2 eggs and 100 floor - [Solution](https://www.geeksforgeeks.org/puzzle-set-35-2-eggs-and-100-floors/)
+
+
+## Reference
+[geeksForGeeks](https://www.geeksforgeeks.org/puzzles/)
